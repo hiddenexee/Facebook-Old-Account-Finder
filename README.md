@@ -8,10 +8,13 @@ This software has been prepared for educational purposes only.
 It is a software open to development, do not expect support.
 
 The software pulls emails from the x temp mail site and checks whether they have already registered with Facebook. If it finds a registered e-mail, it tries to set a new password by asking for the code.
+<br>
 I recommend you change the temp mail site here.
+<br>
 I recommend using Residantel proxy (email sites can ban IP addresses with frequent requests).
+<br>
 You are free to develop the software, I take no responsibility.
-
+<br>
 You can star the project to support me. Thank you
  
 # Features:
