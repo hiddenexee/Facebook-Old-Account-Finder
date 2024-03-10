@@ -12,7 +12,7 @@ The software pulls emails from the x temp mail site and checks whether they have
 I recommend you change the temp mail site here.
 <br><br>
 I recommend using Residantel proxy (email sites can ban IP addresses with frequent requests).
-<br>
+<br><br>
 You are free to develop the software, I take no responsibility.
 <br><br>
 You can star the project to support me. Thank you
