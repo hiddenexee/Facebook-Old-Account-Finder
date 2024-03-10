@@ -202,17 +202,17 @@ def start() -> None:
             print(f"[!] Something went wrong => {e}")
 
 if __name__ == '__main__':
-    password = "HiddenExeTest123*!"
+    password = "HiddenExeTest123*!" # You can give random password
     
-    proxy = "user:pass@ip:port"
-    reset_url = ""
+    proxy = "user:pass@ip:port" # I recommend residential proxy, you can also use mobile proxy
+    reset_url = "" # reset url for mobile proxy
 
-    mobil_reset = False
-    
+    mobil_reset = False # mobile reset active/passive
+
+    system("cls")
     system("title Facebook Account Finder ^| @hiddenexe")
     
     start()
-
 
 
 
