@@ -9,7 +9,7 @@ It is a software open to development, do not expect support.
 
 The software pulls emails from the x temp mail site and checks whether they have already registered with Facebook. If it finds a registered e-mail, it tries to set a new password by asking for the code.
 <br><br>
-I recommend you change the temp mail site here.
+I recommend you change the temp mail site here. (You can find more accounts by using more global sites)
 <br><br>
 I recommend using Residantel proxy (email sites can ban IP addresses with frequent requests).
 <br><br>
